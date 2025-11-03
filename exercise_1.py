@@ -6,3 +6,4 @@ class StringFoo:
 
 message = StringFoo(string="i am ryan")
 message.print_string()
+

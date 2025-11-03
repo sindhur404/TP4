@@ -7,3 +7,4 @@ class rectangle:
 
 answer=rectangle(5,6)
 answer.calcul_aire()
+
